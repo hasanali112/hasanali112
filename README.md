@@ -6,10 +6,17 @@
 <h1 align="left">Find me here:</h1>
 
 <p align="center">
-<a href="https://dev.to/hasanali112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hasanali112" height="100" width="100" /></a>
-<a href="https://linkedin.com/in/md-hasan-ali-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-hasan-ali-khan" height="100" width="100" /></a>
-<a href="https://www.hackerrank.com/@mdhasan_alikhan2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mdhasan_alikhan2" height="100" width="100" /></a>
+    <a href="https://dev.to/hasanali112" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hasanali112" height="75" width="75" />
+    </a>
+    <a href="https://linkedin.com/in/md-hasan-ali-khan" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-hasan-ali-khan" height="75" width="75" />
+    </a>
+    <a href="https://www.hackerrank.com/@mdhasan_alikhan2" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mdhasan_alikhan2" height="75" width="75" />
+    </a>
 </p>
+
 
 <h1 align="left">Languages and Tools:</h1>
 
