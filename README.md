@@ -1,4 +1,4 @@
-<p align="left"> <img src="/banner" alt="hasanali112" /> </p>
+<p align="center"> <img src="/banner" alt="hasanali112" /> </p>
 <h1 align="center">Hi 👋, I'm Hasan</h1>
 
 
