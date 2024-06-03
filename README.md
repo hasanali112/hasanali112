@@ -1,7 +1,13 @@
 <p align="center"> <img src="/banner" alt="hasanali112" /> </p>
 <h1 align="center">Hi 👋, I'm Hasan</h1>
 
+I specialize in creating dynamic and responsive web applications that deliver seamless user experiences. My expertise spans across the entire stack, ensuring that every component of your web application is meticulously crafted and optimized for performance.
 
+On the front-end, I leverage the power of React to build interactive and intuitive user interfaces. React's component-based architecture allows me to create reusable UI components, leading to faster development times and consistent design across the application. I am proficient in using state management libraries like Redux and Context API to manage application state efficiently.
+
+On the back-end, I utilize Node.js and Express.js to develop scalable server-side applications and RESTful APIs. My deep understanding of asynchronous programming and event-driven architecture in Node.js enables me to handle multiple connections concurrently, providing a smooth and responsive experience for end-users.
+
+In addition, I have extensive experience with MongoDB, a NoSQL database, which I use to design flexible and scalable data models. Whether it's handling complex queries, implementing data validation, or optimizing database performance, I ensure that data storage and retrieval are efficient and secure.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasanali112&theme=" alt="hasanali112" /></a> </p>
 
 - 🔭 I’m currently working on **DEV HUB**
