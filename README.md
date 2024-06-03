@@ -1,6 +1,6 @@
-![I am GitHub Readme Generator's creator](https://scontent.fdac13-1.fna.fbcdn.net/v/t39.30808-6/438086185_931046281979195_3832051946781888017_n.png?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF2Z4K6-kdC9E0QGlU9_sVPsYKZzgrw1yexgpnOCvDXJ_cKMKIbR8hqfSIYRXYw4hHPTWj4D7Im1OCXrF0utaqM&_nc_ohc=nv62WZ_g2okAb5NhSvZ&_nc_ht=scontent.fdac13-1.fna&oh=00_AfBUgAb9-BTneCOoiuntCzIkH4whFisioPsM-o0jkxx23g&oe=66294618)
+<p align="left"> <img src="/banner" alt="hasanali112" /> </p>
 <h1 align="center">Hi 👋, I'm Hasan</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanali112&label=Profile%20views&color=0e75b6&style=flat" alt="hasanali112" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasanali112&theme=" alt="hasanali112" /></a> </p>
 
