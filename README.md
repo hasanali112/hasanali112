@@ -66,7 +66,7 @@ In addition, I have extensive experience with MongoDB, a NoSQL database, which I
 
 ### **Testing & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=jest,git,github,postman,vscode,figma" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=jest,git,github,docker,postman,vscode,figma" alt="Tools" />
 </p>
 
 - **Testing**: Jest, React Testing Library
